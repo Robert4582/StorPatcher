@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\Patcher.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\Patcher.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\Patcher.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\Patcher.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\Patcher.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\ref\Patcher.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\bin\Debug\net5.0\Patcher.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\ref\Patcher.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Patcher\Patcher\obj\Debug\net5.0\Patcher.genruntimeconfig.cache
